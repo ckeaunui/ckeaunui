@@ -7,19 +7,38 @@ My coding interests include machine learning, data analytics, and automation.
 My favorite languages to use are Python and SQL, and I am currently studying Java an AWS.   
 
 Machine Learning
-
 <div>
   <a href="https://github.com/ckeaunui/TetrisAI">
     <b>Tetris AI</b>
   </a>
+  <a href="https://github.com/ckeaunui/NLP-Final-Project/blob/master/movie_script_parser.py">
+    <b>Writing Movie Scripts with AI</b>
+  </a>
+  <a href="https://github.com/ckeaunui/Song_Lyric_Generator">
+    <b>Song Lyric Generator</b>
+  </a>
 </div>
 
-
-
 Data Science + Engineering
+<div>
+  <a href="https://github.com/ckeaunui/Chess-history">
+    <b>Exploring My Chess Games</b>
+  </a>
+</div>
 
 Automation
+<div>
+  <a href="https://github.com/ckeaunui/Hypixel_Macros">
+    <b>Hypixel Macros</b>
+  </a>
+</div>
 
+Web Development
+<div>
+  <a href="https://github.com/ckeaunui/sportsbook-final">
+    <b>Live Sportsbook Odds</b>
+  </a>
+</div>
 
 
 ###
