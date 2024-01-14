@@ -1,7 +1,28 @@
-<h2 align="left">Hi 👋! My name is Christian Keaunui and I'm a computer scientist from Seattle, Washington</h2>
+<h2 align="left">Welcome to my page!</h2>
 
 ###
-I graduated from Occidental College with a degree in Computer Science in May of 2023, with a focus on data driven operations.
+Hi 👋! My name is Christian Keaunui and I'm a computer scientist from Seattle, Washington.  
+I graduated from Occidental College with a degree in Computer Science in May of 2023, with a focus on data driven operations.  
+My coding interests include machine learning, data analytics, and automation. 
+My favorite languages to use are Python and SQL, and I am currently studying Java an AWS.   
+
+Machine Learning
+
+<div>
+  <div>
+    <a href="https://github.com/ckeaunui/TetrisAI">
+    <b>Tetris AI</b>
+    </a>
+
+  </div>
+</div>
+
+
+
+Data Science + Engineering
+
+Automation
+
 
 
 ###
