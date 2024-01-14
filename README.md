@@ -3,13 +3,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -17,8 +12,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
+  
 </div>
 
 
@@ -56,6 +50,8 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       <td>Automation</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
       </td>
       <td> Jan 11, 2024</td>
     </tr>
@@ -66,7 +62,15 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
         </a>
       </td>
       <td>Data Analysis</td>
-      <td></td>
+      <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+      </td>
       <td>Dec 10, 2023</td>
     </tr>
     <tr>
@@ -77,6 +81,8 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       </td>
       <td>Web Development</td>
       <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+          <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -90,7 +96,6 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-          <img width="12" />
       </td>
       <td>Oct 30, 2023</td>
     </tr>
@@ -102,6 +107,10 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       </td>
       <td>AI</td>
       <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+        <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
       </td>
       <td>May 4, 2023</td>
