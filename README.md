@@ -9,12 +9,9 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
 Machine Learning
 
 <div>
-  <div>
-    <a href="https://github.com/ckeaunui/TetrisAI">
+  <a href="https://github.com/ckeaunui/TetrisAI">
     <b>Tetris AI</b>
-    </a>
-
-  </div>
+  </a>
 </div>
 
 
