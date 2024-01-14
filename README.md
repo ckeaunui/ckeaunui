@@ -20,22 +20,6 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
     <tr>
       <td>
         <a href="https://github.com/ckeaunui/Hypixel_Macros">
-          <b>Full Stack Web Consultant</b>
-        </a>
-      </td>
-      <td>Web Development</td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-      </td>
-      <td> Jan 14, 2024</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ckeaunui/Hypixel_Macros">
           <b>Hypixel Macros</b>
         </a>
       </td>
