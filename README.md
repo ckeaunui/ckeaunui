@@ -98,7 +98,10 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
         </a>
       </td>
       <td>AI</td>
-      <td></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+        <img width="12" />
+      </td>
       <td>May 6, 2020</td>
     </tr>
     <tr>
@@ -108,7 +111,10 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
         </a>
       </td>
       <td>AI</td>
-      <td></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+        <img width="12" />
+      </td>
       <td>Mar 9, 2020</td>
     </tr>
     
