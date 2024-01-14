@@ -6,45 +6,80 @@ I graduated from Occidental College with a degree in Computer Science in May of 
 My coding interests include machine learning, data analytics, and automation. 
 My favorite languages to use are Python and SQL, and I am currently studying Java an AWS.   
 
-Machine Learning
-<div>
-  <div>
-    <a href="https://github.com/ckeaunui/TetrisAI">
-        <b>Tetris AI</b>
-      </a>
-  </div>
-  <div>
-    <a href="https://github.com/ckeaunui/NLP-Final-Project/blob/master/movie_script_parser.py">
-      <b>Writing Movie Scripts with AI</b>
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/ckeaunui/Song_Lyric_Generator">
-      <b>Song Lyric Generator</b>
-    </a>
-  </div>
-</div>
-
-Data Science + Engineering
-<div>
-  <a href="https://github.com/ckeaunui/Chess-history">
-    <b>Exploring My Chess Games</b>
-  </a>
-</div>
-
-Automation
-<div>
-  <a href="https://github.com/ckeaunui/Hypixel_Macros">
-    <b>Hypixel Macros</b>
-  </a>
-</div>
-
-Web Development
-<div>
-  <a href="https://github.com/ckeaunui/sportsbook-final">
-    <b>Live Sportsbook Odds</b>
-  </a>
-</div>
+<h3>My Projects</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Category</th>
+      <th>Language(s)</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ckeaunui/TetrisAI">
+          <b>Tetris AI</b>
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ckeaunui/NLP-Final-Project/blob/master/movie_script_parser.py">
+          <b>Writing Movie Scripts with AI</b>
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ckeaunui/Song_Lyric_Generator">
+          <b>Song Lyric Generator</b>
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ckeaunui/Chess-history">
+          <b>Exploring My Chess Games</b>
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ckeaunui/Hypixel_Macros">
+          <b>Hypixel Macros</b>
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ckeaunui/sportsbook-final">
+          <b>Live Sportsbook Odds</b>
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+</table>
 
 
 ###
