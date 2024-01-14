@@ -12,7 +12,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
     <tr>
       <th>Project</th>
       <th>Category</th>
-      <th>Language(s)</th>
+      <th>Tools</th>
       <th>Date</th>
     </tr>
   </thead>
@@ -25,7 +25,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       </td>
       <td>AI</td>
       <td></td>
-      <td></td>
+      <td>May 4, 2023</td>
     </tr>
     <tr>
       <td>
@@ -35,7 +35,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       </td>
       <td>AI</td>
       <td></td>
-      <td></td>
+      <td>May 6, 2020</td>
     </tr>
     <tr>
       <td>
@@ -45,7 +45,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       </td>
       <td>AI</td>
       <td></td>
-      <td></td>
+      <td>Mar 9, 2020</td>
     </tr>
     <tr>
       <td>
@@ -55,7 +55,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       </td>
       <td>Data Analysis</td>
       <td></td>
-      <td></td>
+      <td>Dec 10, 2023</td>
     </tr>
     <tr>
       <td>
@@ -75,7 +75,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       </td>
       <td>Web Development</td>
       <td></td>
-      <td></td>
+      <td>Oct 30, 2023</td>
     </tr>
     
   </tbody>
