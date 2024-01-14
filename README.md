@@ -126,7 +126,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
 
 
 ###
-<h3>Languages</h3>
+<h3>My Favorite Languages & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
