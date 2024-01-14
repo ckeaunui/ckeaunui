@@ -23,7 +23,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
           <b>Full Stack Web Consultant</b>
         </a>
       </td>
-      <td>Automation</td>
+      <td>Web Development</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
         <img width="12" />
