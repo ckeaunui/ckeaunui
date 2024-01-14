@@ -19,6 +19,36 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/ckeaunui/Hypixel_Macros">
+          <b>Hypixel Macros</b>
+        </a>
+      </td>
+      <td>Automation</td>
+      <td></td>
+      <td> Jan 11, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ckeaunui/Chess-history">
+          <b>Exploring My Chess Games</b>
+        </a>
+      </td>
+      <td>Data Analysis</td>
+      <td></td>
+      <td>Dec 10, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ckeaunui/sportsbook-final">
+          <b>Live Sportsbook Odds</b>
+        </a>
+      </td>
+      <td>Web Development</td>
+      <td></td>
+      <td>Oct 30, 2023</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/ckeaunui/TetrisAI">
           <b>Tetris Deep Learning</b>
         </a>
@@ -47,36 +77,8 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
       <td></td>
       <td>Mar 9, 2020</td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ckeaunui/Chess-history">
-          <b>Exploring My Chess Games</b>
-        </a>
-      </td>
-      <td>Data Analysis</td>
-      <td></td>
-      <td>Dec 10, 2023</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ckeaunui/Hypixel_Macros">
-          <b>Hypixel Macros</b>
-        </a>
-      </td>
-      <td>Automation</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ckeaunui/sportsbook-final">
-          <b>Live Sportsbook Odds</b>
-        </a>
-      </td>
-      <td>Web Development</td>
-      <td></td>
-      <td>Oct 30, 2023</td>
-    </tr>
+    
+    
     
   </tbody>
 </table>
