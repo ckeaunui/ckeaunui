@@ -20,10 +20,10 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
     <tr>
       <td>
         <a href="https://github.com/ckeaunui/TetrisAI">
-          <b>Tetris AI</b>
+          <b>Tetris Deep Learning</b>
         </a>
       </td>
-      <td></td>
+      <td>AI</td>
       <td></td>
       <td></td>
     </tr>
@@ -33,7 +33,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
           <b>Writing Movie Scripts with AI</b>
         </a>
       </td>
-      <td></td>
+      <td>AI</td>
       <td></td>
       <td></td>
     </tr>
@@ -43,7 +43,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
           <b>Song Lyric Generator</b>
         </a>
       </td>
-      <td></td>
+      <td>AI</td>
       <td></td>
       <td></td>
     </tr>
@@ -53,7 +53,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
           <b>Exploring My Chess Games</b>
         </a>
       </td>
-      <td></td>
+      <td>Data Analysis</td>
       <td></td>
       <td></td>
     </tr>
@@ -63,7 +63,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
           <b>Hypixel Macros</b>
         </a>
       </td>
-      <td></td>
+      <td>Automation</td>
       <td></td>
       <td></td>
     </tr>
@@ -73,7 +73,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
           <b>Live Sportsbook Odds</b>
         </a>
       </td>
-      <td></td>
+      <td>Web Development</td>
       <td></td>
       <td></td>
     </tr>
@@ -83,6 +83,7 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
 
 
 ###
+<h3>Languages</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
