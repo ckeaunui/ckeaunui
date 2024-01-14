@@ -8,15 +8,21 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
 
 Machine Learning
 <div>
-  <a href="https://github.com/ckeaunui/TetrisAI">
-    <b>Tetris AI</b>
-  </a>
-  <a href="https://github.com/ckeaunui/NLP-Final-Project/blob/master/movie_script_parser.py">
-    <b>Writing Movie Scripts with AI</b>
-  </a>
-  <a href="https://github.com/ckeaunui/Song_Lyric_Generator">
-    <b>Song Lyric Generator</b>
-  </a>
+  <div>
+    <a href="https://github.com/ckeaunui/TetrisAI">
+        <b>Tetris AI</b>
+      </a>
+  </div>
+  <div>
+    <a href="https://github.com/ckeaunui/NLP-Final-Project/blob/master/movie_script_parser.py">
+      <b>Writing Movie Scripts with AI</b>
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/ckeaunui/Song_Lyric_Generator">
+      <b>Song Lyric Generator</b>
+    </a>
+  </div>
 </div>
 
 Data Science + Engineering
