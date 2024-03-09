@@ -18,15 +18,6 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
   </thead>
   <tbody>
     <tr>
-      <td>Automation</td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-      </td>
-      <td> Jan 11, 2024</td>
-    </tr>
-    <tr>
       <td>
         <a href="https://github.com/ckeaunui/Chess-history">
           <b>Exploring My Chess Games</b>
