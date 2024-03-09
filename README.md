@@ -18,11 +18,6 @@ My favorite languages to use are Python and SQL, and I am currently studying Jav
   </thead>
   <tbody>
     <tr>
-      <td>
-        <a href="https://github.com/ckeaunui/Hypixel_Macros">
-          <b>Hypixel Macros</b>
-        </a>
-      </td>
       <td>Automation</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
