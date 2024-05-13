@@ -7,8 +7,12 @@ I am a computer scientist from Seattle, Washington.
 I graduated from Occidental College with a degree in Computer Science in May of 2023, with a focus on data driven operations.  I work as a data
 
 <h3>Skills / Tools</h3>
-
-
+<ul>
+  <li>Languages: Python, SQL</li>
+  <li>Data Storage: MySQL, SQLite, Excel</li>
+  <li>Data Analysis: Tableau, PowerBI</li>
+  <li>Tools: Tensorflow, Pandas, Scikit-learn</li>
+</ul>
 
 <h3>My Projects</h3>
 <table>
