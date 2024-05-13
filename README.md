@@ -1,10 +1,14 @@
 <h2 align="left">Welcome to my page!</h2>
 
 ###
-Hi 👋! My name is Christian Keaunui and I'm a computer scientist from Seattle, Washington.  
-I graduated from Occidental College with a degree in Computer Science in May of 2023, with a focus on data driven operations.  
-My coding interests include machine learning, data analytics, and automation. 
-My favorite languages to use are Python and SQL, and I am currently studying Java an AWS.   
+Hello, my name is Christian Keaunui. 
+
+I am a computer scientist from Seattle, Washington.  
+I graduated from Occidental College with a degree in Computer Science in May of 2023, with a focus on data driven operations.  I work as a data
+
+<h3>Skills / Tools</h3>
+
+
 
 <h3>My Projects</h3>
 <table>
