@@ -9,9 +9,10 @@ I graduated from Occidental College with a degree in Computer Science in May of 
 <h3>Skills / Tools</h3>
 <ul>
   <li>Languages: Python, SQL</li>
-  <li>Data Storage: MySQL, SQLite, Excel</li>
-  <li>Data Analysis: Tableau, PowerBI</li>
-  <li>Tools: Tensorflow, Pandas, Scikit-learn</li>
+  <li>Data: MySQL, SQLite, Excel</li>
+  <li>Analysis: Tableau, PowerBI, Scikit-learn</li>
+  <li>Tools: Tensorflow, Pandas</li>
+  <li>Web Design: Django, React</li>
 </ul>
 
 <h3>My Projects</h3>
