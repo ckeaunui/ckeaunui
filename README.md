@@ -41,7 +41,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
             <li>Pandas</li>
           </ul>
       </td>
-      <td>Desdcription</td>
+      <td>Description</td>
     </tr>
     <tr>
       <td>
@@ -49,25 +49,21 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Online Sportsbook</b>
         </a>
       </td>
-      <td>Web Development</td>
-      <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-      </td>
       <td>Oct 30, 2023</td>
+      <td>Web App Development</td>
+      <td>
+        <ul>
+          <li>Python</li>
+          <li>JavaScript</li>
+          <li>CSS</li>
+          <li>Html</li>
+          <li>SQLite</li>
+          <li>React</li>
+          <li>AWS</li>
+          <li>Django</li>
+        </ul>
+      </td>
+      <td>Description</td>
     </tr>
     <tr>
       <td>
@@ -75,29 +71,29 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Tetris Deep Learning</b>
         </a>
       </td>
-      <td>AI</td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-        <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-      </td>
       <td>May 4, 2023</td>
+      <td>Machine Learning</td>
+      <td>
+        <ul>
+          <li>Python</li>
+          <li>Tensorflow</li>
+          <li>Filezilla</li>
+      </td>
+      <td>Description</td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/ckeaunui/NLP-Final-Project/blob/master/movie_script_parser.py">
-          <b>Writing Movie Scripts with AI</b>
+          <b>Movie Script Generator</b>
         </a>
       </td>
-      <td>AI</td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-        <img width="12" />
-      </td>
       <td>May 6, 2020</td>
+      <td>Machine Learning</td>
+      <td>
+        <ul>
+          <li>Python</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>
@@ -105,16 +101,15 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Song Lyric Generator</b>
         </a>
       </td>
-      <td>AI</td>
+      <td>Machine Learning</td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-        <img width="12" />
+        <ul>
+          <li>Python</li>
+          <li></li>
+        </ul>
       </td>
       <td>Mar 9, 2020</td>
     </tr>
-    
-    
-    
   </tbody>
 </table>
 
