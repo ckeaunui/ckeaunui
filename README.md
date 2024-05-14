@@ -94,6 +94,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <li>Python</li>
         </ul>
       </td>
+      <td>Description</td>
     </tr>
     <tr>
       <td>
@@ -101,6 +102,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Song Lyric Generator</b>
         </a>
       </td>
+      <td>Mar 9, 2020</td>
       <td>Machine Learning</td>
       <td>
         <ul>
@@ -108,7 +110,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <li></li>
         </ul>
       </td>
-      <td>Mar 9, 2020</td>
+      <td>Description</td>
     </tr>
   </tbody>
 </table>
