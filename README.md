@@ -41,7 +41,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
             <li>Pandas</li>
           </ul>
       </td>
-      <td>Description</td>
+      <td>I gathered data on over 7,000 chess games I have played since February 2020</td>
     </tr>
     <tr>
       <td>
