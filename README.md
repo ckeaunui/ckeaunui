@@ -20,34 +20,33 @@ I graduated from Occidental College with a degree in Computer Science in May of 
   <thead>
     <tr>
       <th>Project</th>
+      <th>Date</th>
       <th>Category</th>
       <th>Tools</th>
-      <th>Date</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <a href="https://github.com/ckeaunui/Chess-history">
-          <b>Exploring My Chess Games</b>
+          <b>Chess Games Data Exploration</b>
         </a>
       </td>
-      <td>Data Analysis</td>
-      <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-      </td>
       <td>Dec 10, 2023</td>
+      <td>Data Gathering Analysis</td>
+      <td>
+        <ul>
+            <li>Python</li>
+            <li>Pandas</li>
+          </ul>
+      </td>
+      <td>Desdcription</td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/ckeaunui/sportsbook-final">
-          <b>Live Sportsbook Odds</b>
+          <b>Online Sportsbook</b>
         </a>
       </td>
       <td>Web Development</td>
