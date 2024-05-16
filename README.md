@@ -34,14 +34,14 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         </a>
       </td>
       <td>Dec 10, 2023</td>
-      <td>Data Gathering Analysis</td>
+      <td>Data Gathering / Analysis</td>
       <td>
         <ul>
             <li>Python</li>
             <li>Pandas</li>
           </ul>
       </td>
-      <td>I gathered data on over 7,000 chess games I have played since February 2020</td>
+      <td>I gathered data on over 7,000 chess games I have played since February 2020 from chess.com's api, and cleaned it in a jupyter notebook..  Then I downloaded the data as .csv files and analysed them in Tableau</td>
     </tr>
     <tr>
       <td>
@@ -63,7 +63,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <li>Django</li>
         </ul>
       </td>
-      <td>Description</td>
+      <td>In this project, I built a book keeping web application which tracks live sports games, and includes a casino with roulette and blackjack.  All odds are live and gathered from https://the-odds-api.com/.  To use the site, an API key must be purchased from https://the-odds-api.com/#get-access.</td>
     </tr>
     <tr>
       <td>
@@ -79,7 +79,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <li>Tensorflow</li>
           <li>Filezilla</li>
       </td>
-      <td>Description</td>
+      <td>For my undergraduate thesis, I created a deep reinforcement learning model to trains and plays Tetris.  I recreated Tetris with PyGames, and used a deep q-learning algorithm to train the model.</td>
     </tr>
     <tr>
       <td>
