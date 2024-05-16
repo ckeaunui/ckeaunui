@@ -29,6 +29,11 @@ I graduated from Occidental College with a degree in Computer Science in May of 
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/ckeaunui/SkinLession">
+          <b>Skin Lession Classification</b>
+        </a>
+      </td>
+      <td>
         <a href="https://github.com/ckeaunui/Chess-history">
           <b>Chess Games Data Exploration</b>
         </a>
