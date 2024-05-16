@@ -4,7 +4,7 @@
 Hello, my name is Christian Keaunui. 
 
 I am a computer scientist from Seattle, Washington.  
-I graduated from Occidental College with a degree in Computer Science in May of 2023, with a focus on data driven operations.  I work as a data
+I graduated from Occidental College with a degree in Computer Science in May of 2023, with a focus on data driven operations.  I am currently working as a data analyst at Noson.
 
 <h3>Skills / Tools</h3>
 <ul>
