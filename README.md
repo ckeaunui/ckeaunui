@@ -99,36 +99,5 @@ I graduated from Occidental College with a degree in Computer Science in May of 
       </td>
       <td>For my undergraduate thesis, I created a deep reinforcement learning model to trains and plays Tetris.  I recreated Tetris with PyGames, and used a deep q-learning algorithm to train the model.</td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ckeaunui/NLP-Final-Project/blob/master/movie_script_parser.py">
-          <b>Movie Script Generator</b>
-        </a>
-      </td>
-      <td>May 2020</td>
-      <td>Machine Learning</td>
-      <td>
-        <ul>
-          <li>Python</li>
-        </ul>
-      </td>
-      <td>Description</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ckeaunui/Song_Lyric_Generator">
-          <b>Song Lyric Generator</b>
-        </a>
-      </td>
-      <td>Mar 2020</td>
-      <td>Machine Learning</td>
-      <td>
-        <ul>
-          <li>Python</li>
-          <li></li>
-        </ul>
-      </td>
-      <td>Description</td>
-    </tr>
   </tbody>
 </table>
