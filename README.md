@@ -33,6 +33,15 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Skin Lession Classification</b>
         </a>
       </td>
+      <td>May 2024</td>
+      <td>Machine Learning</td>
+      <td>
+        <ul>
+          <li>Python</li>
+          <li>Tensorflow</li>
+        </ul>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td>
@@ -40,7 +49,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Chess Games Data Exploration</b>
         </a>
       </td>
-      <td>Dec 10, 2023</td>
+      <td>Dec 2023</td>
       <td>Data Gathering / Analysis</td>
       <td>
         <ul>
@@ -56,7 +65,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Online Sportsbook</b>
         </a>
       </td>
-      <td>Oct 30, 2023</td>
+      <td>Oct 2023</td>
       <td>Web App Development</td>
       <td>
         <ul>
@@ -78,7 +87,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Tetris Deep Learning</b>
         </a>
       </td>
-      <td>May 4, 2023</td>
+      <td>May 4 2023</td>
       <td>Machine Learning</td>
       <td>
         <ul>
@@ -94,7 +103,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Movie Script Generator</b>
         </a>
       </td>
-      <td>May 6, 2020</td>
+      <td>May 2020</td>
       <td>Machine Learning</td>
       <td>
         <ul>
@@ -109,7 +118,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <b>Song Lyric Generator</b>
         </a>
       </td>
-      <td>Mar 9, 2020</td>
+      <td>Mar 2020</td>
       <td>Machine Learning</td>
       <td>
         <ul>
