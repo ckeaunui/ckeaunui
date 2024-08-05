@@ -6,9 +6,6 @@ Hello, my name is Christian Keaunui.
 I am a computer scientist from Seattle, Washington.  
 I graduated from Occidental College with a degree in Computer Science in May of 2023, with a focus on data driven operations.  I am currently working as a data analyst at Noson.
 
-![Solar](https://github.com/ckeaunui/ckeaunui/blob/main/images/Solar%20thumbnail.jpg)
-
-
 <h3>Skills / Tools</h3>
 <ul>
   <li>Languages: Python, SQL</li>
@@ -33,6 +30,28 @@ I graduated from Occidental College with a degree in Computer Science in May of 
     <tr>
       <td>
         <img src="https://github.com/ckeaunui/ckeaunui/blob/main/images/Solar%20thumbnail.jpg">
+      </td>
+      <td>
+        <a href="https://github.com/ckeaunui/Solar-Energy">
+          <b>Solar Panel Cost Effectiveness per Location</b>
+        </a>
+      </td>
+      <td>July 2024</td>
+      <td>
+        <ul>
+          <li>Python</li>
+          <li>Tensorflow</li>
+          <li>Tableau</li>
+          <li>Pandas</li>
+          <li>Numpy</li>
+        </ul>
+      </td>
+      <td>
+        I gathered and combined data on solar irradiance from NASA for each U.S. city, the average household energy usage per year, and average household energy costs per year, then combined it into one comprehensive dataset.  I then calculated the estimated energy production of a ___ solar panel per region and compared its cost to the expected amount of money saved.  
+      </td>
+    </tr>
+    <tr>
+      <td>
       <td>
         <a href="https://github.com/ckeaunui/SkinLession">
           <b>Skin Lession Classification</b>
