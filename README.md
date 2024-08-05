@@ -32,7 +32,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
   <tbody>
     <tr>
       <td>
-        ![Solar](https://github.com/ckeaunui/ckeaunui/blob/main/images/Solar%20thumbnail.jpg)
+        <img src="https://github.com/ckeaunui/ckeaunui/blob/main/images/Solar%20thumbnail.jpg">
       <td>
         <a href="https://github.com/ckeaunui/SkinLession">
           <b>Skin Lession Classification</b>
