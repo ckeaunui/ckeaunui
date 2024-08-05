@@ -50,7 +50,6 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         </a>
       </td>
       <td>Dec 2023</td>
-      <td>Data Gathering / Analysis</td>
       <td>
         <ul>
             <li>Python</li>
@@ -66,7 +65,6 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         </a>
       </td>
       <td>May 4 2023</td>
-      <td>Machine Learning</td>
       <td>
         <ul>
           <li>Python</li>
