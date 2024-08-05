@@ -28,7 +28,9 @@ I graduated from Occidental College with a degree in Computer Science in May of 
   </thead>
   <tbody>
     <tr>
-      <td></td>
+      <td>
+        ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/ckeaunui/ckeaunui/blob/main/images/Solar%20thumbnail.jpg)?raw=true)
+      </td>
       <td>
         <a href="https://github.com/ckeaunui/SkinLession">
           <b>Skin Lession Classification</b>
