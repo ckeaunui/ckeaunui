@@ -69,7 +69,9 @@ I graduated from Occidental College with a degree in Computer Science in May of 
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+        <img src="https://github.com/ckeaunui/ckeaunui/blob/main/images/Chess%20Thumbnail.jpg">
+      </td>
       <td>
         <a href="https://github.com/ckeaunui/Chess-history">
           <b>Chess Games Data Exploration</b>
@@ -85,7 +87,9 @@ I graduated from Occidental College with a degree in Computer Science in May of 
       <td>I gathered data on over 7,000 chess games I have played since February 2020 from chess.com's api, and cleaned it in a jupyter notebook..  Then I downloaded the data as .csv files and analysed them in Tableau</td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+        <img src="https://github.com/ckeaunui/ckeaunui/blob/main/images/tetris-thumbnail.png">
+      </td>
       <td>
         <a href="https://github.com/ckeaunui/TetrisAI">
           <b>Tetris Deep Learning</b>
