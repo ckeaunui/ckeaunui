@@ -21,7 +21,6 @@ I graduated from Occidental College with a degree in Computer Science in May of 
     <tr>
       <th>Project</th>
       <th>Date</th>
-      <th>Category</th>
       <th>Tools</th>
       <th>Description</th>
     </tr>
@@ -34,7 +33,6 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         </a>
       </td>
       <td>May 2024</td>
-      <td>Machine Learning</td>
       <td>
         <ul>
           <li>Python</li>
@@ -60,28 +58,6 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           </ul>
       </td>
       <td>I gathered data on over 7,000 chess games I have played since February 2020 from chess.com's api, and cleaned it in a jupyter notebook..  Then I downloaded the data as .csv files and analysed them in Tableau</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ckeaunui/sportsbook-final">
-          <b>Online Sportsbook</b>
-        </a>
-      </td>
-      <td>Oct 2023</td>
-      <td>Web App Development</td>
-      <td>
-        <ul>
-          <li>Python</li>
-          <li>JavaScript</li>
-          <li>CSS</li>
-          <li>Html</li>
-          <li>SQLite</li>
-          <li>React</li>
-          <li>AWS</li>
-          <li>Django</li>
-        </ul>
-      </td>
-      <td>In this project, I built a book keeping web application which tracks live sports games, and includes a casino with roulette and blackjack.  All odds are live and gathered from https://the-odds-api.com/.  To use the site, an API key must be purchased from https://the-odds-api.com/#get-access.</td>
     </tr>
     <tr>
       <td>
