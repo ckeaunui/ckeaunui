@@ -15,10 +15,11 @@ I graduated from Occidental College with a degree in Computer Science in May of 
   <li>Web Design: Django, React</li>
 </ul>
 
-<h3>My Projects</h3>
+<h3>Portfolio</h3>
 <table>
   <thead>
     <tr>
+      <th></th>
       <th>Project</th>
       <th>Date</th>
       <th>Tools</th>
@@ -27,6 +28,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
   </thead>
   <tbody>
     <tr>
+      <td></td>
       <td>
         <a href="https://github.com/ckeaunui/SkinLession">
           <b>Skin Lession Classification</b>
@@ -44,6 +46,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
       </td>
     </tr>
     <tr>
+      <td></td>
       <td>
         <a href="https://github.com/ckeaunui/Chess-history">
           <b>Chess Games Data Exploration</b>
@@ -59,6 +62,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
       <td>I gathered data on over 7,000 chess games I have played since February 2020 from chess.com's api, and cleaned it in a jupyter notebook..  Then I downloaded the data as .csv files and analysed them in Tableau</td>
     </tr>
     <tr>
+      <td></td>
       <td>
         <a href="https://github.com/ckeaunui/TetrisAI">
           <b>Tetris Deep Learning</b>
