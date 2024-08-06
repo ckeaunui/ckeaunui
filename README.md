@@ -47,7 +47,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         </ul>
       </td>
       <td>
-        I gathered and combined data on solar irradiance from NASA for each U.S. city, the average household energy usage per year, and average household energy costs per year, then combined it into one comprehensive dataset.  I then calculated the estimated energy production of a ___ solar panel per region and compared its cost to the expected amount of money saved.  
+        In this project I am exploring solar panels energy production across different regions in the U.S. to determine how cost effective they are. I gathered solar irradiance data from NASA for each U.S. city since 2020, the average household energy usage per year, and average household energy costs per year.  I then calculated the estimated energy production of a Panasonic 360W solar panel at its peak, across its entire lifetime, and the estimated money it would save.  Finally, I visualized the results in Tableau.
       </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         </ul>
       </td>
       <td>
-        This project creates and trains a model to classify several kinds of skin lessions. Data was downloaded from Harvard Dataverse at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T. Images from part1 and 2 were combined into a single "Images" folder. The model was able to produce results with an accuracy of 86%.
+        This is a machine learning project which uses the HAM10k dataset from Harvard Dataverse to train a model for classifying images of skin lesions into one of seven different categories.  The data provided was imbalanced, so synthetic data was created through image augmentation for under represented categories  The model I built uses transfer learning on the resnet50 model.
       </td>
     </tr>
     <tr>
@@ -84,7 +84,9 @@ I graduated from Occidental College with a degree in Computer Science in May of 
             <li>Pandas</li>
           </ul>
       </td>
-      <td>I gathered data on over 7,000 chess games I have played since February 2020 from chess.com's api, and cleaned it in a jupyter notebook..  Then I downloaded the data as .csv files and analysed them in Tableau</td>
+      <td>
+        Since February 2020 I have been playing online chess, and have completed over 7,000 games.  In this project I review those games to gather insights on my strengths and weaknesses as a player.  I used python to gather and clean data from the chess.com api, and saved it to a SQL relational database.  I then analyze and visualize the data in Tableau.
+      </td>
     </tr>
     <tr>
       <td>
@@ -102,7 +104,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
           <li>Tensorflow</li>
           <li>Filezilla</li>
       </td>
-      <td>For my undergraduate thesis, I created a deep reinforcement learning model to trains and plays Tetris.  I recreated Tetris with PyGames, and used a deep q-learning algorithm to train the model.</td>
+      <td>For my undergraduate thesis, I built and trained a deep reinforcement learning model to play Tetris.  The neural network used a deep Q-learning algorithm to learn, and was trained across 2,000 iterations of Tetris games.  The model is able to far surpass human play, but this is result is largely due to the models movement speed rather than superior organizational abilities.</td>
     </tr>
   </tbody>
 </table>
