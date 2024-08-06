@@ -62,6 +62,8 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         <ul>
           <li>Python</li>
           <li>Tensorflow</li>
+          <li>Numpy</li>
+          <li>Pandas</li>
         </ul>
       </td>
       <td>
@@ -82,6 +84,9 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         <ul>
             <li>Python</li>
             <li>Pandas</li>
+            <li>Numpy</li>
+            <li>BeautifulSoup</li>
+            <li>Tableau</li>
           </ul>
       </td>
       <td>
@@ -102,7 +107,7 @@ I graduated from Occidental College with a degree in Computer Science in May of 
         <ul>
           <li>Python</li>
           <li>Tensorflow</li>
-          <li>Filezilla</li>
+          <li>Numpy</li>
       </td>
       <td>For my undergraduate thesis, I built and trained a deep reinforcement learning model to play Tetris.  The neural network used a deep Q-learning algorithm to learn, and was trained across 2,000 iterations of Tetris games.  The model is able to far surpass human play, but this is result is largely due to the models movement speed rather than superior organizational abilities.</td>
     </tr>
